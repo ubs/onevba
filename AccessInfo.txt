@@ -1,0 +1,10 @@
+Cygwin
+======
+Location: /cygdrive/c/Users/607016169/dev/workspace/Misc/VBA
+
+
+Git:
+====
+Clone URL: https://github.com/ubs/onevba.git
+AccessKey: @01vbaAlways
+Format: zips|tars
