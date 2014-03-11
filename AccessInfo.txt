@@ -8,3 +8,7 @@ Git:
 Clone URL: https://github.com/ubs/onevba.git
 AccessKey: @01vbaAlways
 Format: zips|tars
+
+Notes:
+	* Always clone via git: not via https:
+	* git remote set-url origin git@github.com:ubs/onevba.git (corrects the mistake)
